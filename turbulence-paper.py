@@ -1,8 +1,3 @@
-import os
-from google.colab import drive
-drive.mount('/content/drive')
-os.chdir("/content/drive/My Drive/Colab Notebooks/4D")
-
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
