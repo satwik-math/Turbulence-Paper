@@ -1,4 +1,4 @@
-The description can be found [here](assets/Reynold's Shear Stress.md).
+The following diagram: ![Reynold's Shear Stress](assets/images/Reynold's Shear Stress.png). TThe description can be found <a href="assets/Reynold's Shear Stress.md" style="font-size: 20px; color: gray; margin-right: 7px">here</a>.
 
 ### Reynolds Stress Tensor:
 
