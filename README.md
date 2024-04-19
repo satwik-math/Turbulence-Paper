@@ -1,4 +1,4 @@
-The description can be found [here](assets/Create Reynold's Shear Stress.md).
+The description can be found [here](assets/Reynold's Shear Stress.md).
 
 ### Reynolds Stress Tensor:
 
