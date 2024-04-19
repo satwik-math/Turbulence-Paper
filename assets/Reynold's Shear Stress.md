@@ -1,4 +1,4 @@
-### Reynolds Stress Tensor:
+# Reynolds Stress Tensor:
 
 The Reynolds stress tensor $` \tau_{ij} `$ is a symmetric second-order tensor that describes the turbulent stresses in a fluid flow. It is defined by:
 ```math
