@@ -43,6 +43,5 @@ where:
 
 - Reynolds stress tensor components quantify the intensity and directionality of turbulent momentum transport in a fluid flow.
 - Positive values indicate a net transfer of momentum in the positive direction of the respective axis, while negative values indicate the opposite.
-- Understanding the Reynolds stress tensor is crucial for modeling turbulent flows accurately, as it provides insights into the distribution and behavior of turbulent fluctuations in momentum transport.
 
 The present code graphically elucidates contributions of Reynold's Shear Stress $` - \tau_{13} `$ at different quadrant components, where flow is happening in the horizontal direction $` u_{1} `$. A detailed description regarding this term and its formulation can be found <a href="https://www.ams.org/journals/qam/1945-03-01/S0033-569X-1945-11999-0/" style="font-size: 20px">here</a>.
